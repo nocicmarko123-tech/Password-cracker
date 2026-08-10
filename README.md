@@ -3,12 +3,12 @@ Every version of the password cracker progress
 Started at 1(worst) to the highest number(x)
 Final project will be called final.py.
 
-#Pocetni(Simple) Password cracker
+**Pocetni(Simple) Password cracker**
 maked to find how simple cracker in terminal is really unsecure.
 But, all is rectricted
 Big project, for password cracking, named 1,2... /.py 
 Is very better but complicated.
-## License & Usage Terms
+### License & Usage Terms
 
 This repository is licensed under the **PolyForm Noncommercial License 1.0.0**.
 
@@ -18,3 +18,7 @@ This repository is licensed under the **PolyForm Noncommercial License 1.0.0**.
 ### Commercial Permission
 If you want to use this work for commercial purposes or paid activities, you can request permission by reaching out via email:
                                     **nocic.marko123@gmail.com**
+ATTENTION : THE PASSWORD CRACKER IS NOT FINISHED
+            THE POCETNI [pocetni2.py] IS ALREADY BEING AND IS BUILD TO SEE HOW EASY SOMETHING CAN BE
+            BUT WITH ALL SECURITY RULES, WHICH IS LIFE SAVIOUR, IS EXTREMELY DIFFICULT
+            CHANCES. MORE TO SEE AT **CHANCES.MD**
